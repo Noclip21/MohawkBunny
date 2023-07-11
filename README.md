@@ -1,6 +1,8 @@
 Mohawk Bunny
 ============
 
+![Mohawk Bunny thumbnail image](bunny.png)
+
 Custom Stanford bunny model with added fur.
 
 - Meshes: 4
